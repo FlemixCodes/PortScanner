@@ -6,4 +6,4 @@ A simple python port scanner :D
 python main.py [target]
 
 ## Example
-[example](clipimage.jpg)
+![example](clipimage.jpg)
